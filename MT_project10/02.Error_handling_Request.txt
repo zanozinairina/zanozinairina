@@ -1,0 +1,17 @@
+POST https://online.sberbank.ru/CSAFront/api/oidc/sbid?client_id=09a6f842-ed4d-4b42-a925-3bc75e77335e HTTP/1.1
+Host: online.sberbank.ru
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://sbermarket.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sbermarket.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _sv=SA1.61569f5e-235e-4abd-8ae6-89645ba6d6c5.1662460160
+
