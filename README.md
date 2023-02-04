@@ -24,7 +24,11 @@ MT_project10
 
 Archive (test task)
 
-- Чек-листы тестирования работы валидации на форме в десктопном приложении Windows, Linux  и в терминале Linux  
+- Чек-листы тестирования работы валидации на форме в десктопном приложении Windows, Linux  и в терминале Linux
+
+Archive (cryptopro)
+
+- Отчет по тестированию работы Крипто ПРО CSP с Outlook
 
 <!---
 zanozinairina/zanozinairina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
