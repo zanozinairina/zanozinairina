@@ -24,7 +24,7 @@ MT_project10
 
 Archive (test task)
 
-- Чек-листы тестирования работы валидации на форме в десктопном приложении Windows, Linux  и в терминале Linux
+- Чек-листы тестирования фичи в десктопном приложении Windows, Linux  и в терминале Linux
 
 Archive (cryptopro)
 
